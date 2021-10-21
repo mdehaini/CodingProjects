@@ -11,7 +11,7 @@
 - Bachelors @ [UCSD](https://ucsd.edu/) majoring in Computer Engineering 
   - 3.95 GPA
   - Awarded Provost Honors
-  - Expected Graduation date: June 2021
+  - Expected Graduation date: June 2022
   - Relevant course work: Software Engineering, Introduction to Computer Vision, Introduction to Data structures, Software Tools and Techniques, Discrete Math for CS, Mathematics for Algorithms and System Analysis, Introduction to Analog Design, Advanced Data Structures and Circuits and Systems
 
 ## Experience
